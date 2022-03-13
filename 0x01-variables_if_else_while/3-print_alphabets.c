@@ -5,14 +5,16 @@
  */
 int main(void)
 {
-	for (int x = 'a'; x <= 'z'; x++)
+	int x;
+
+	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
 	}
 
-	for (int y = 'A'; y <= 'Z'; y++)
+	for (x = 'A'; x <= 'Z'; x++)
 	{
-		putchar(y);
+		putchar(x);
 	}
 	putchar('\n');
 	return (0);
