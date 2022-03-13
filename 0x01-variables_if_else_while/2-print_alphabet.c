@@ -5,11 +5,11 @@
  */
 int main(void)
 {
-	for (int x = 'A'; x <= 'Z'; x++)
-	{
-		int tolow = x + 32;
+	char x;
 
-		putchar(tolow);
+	for (x = 'a'; x <= 'z'; x++)
+	{
+		putchar(x);
 	}
 	putchar('\n');
 	return (0);
