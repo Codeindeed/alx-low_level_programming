@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * printsign - prints signs of numbers inputed
+ * print_sign - prints signs of numbers inputed
  * @n: character
  * Return: 0
  */
-int printsign(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
