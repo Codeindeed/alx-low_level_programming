@@ -4,7 +4,7 @@
  * Return: 0
  */
 
-void print_alphabelt(void)
+void print_alphabet(void)
 {
 	char c;
 
