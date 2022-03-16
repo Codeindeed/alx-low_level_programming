@@ -7,13 +7,12 @@
 
 void print_alphabet_x10(void)
 {
-	int a = 0;
+	int a;
 	int j;
 
-	for (a <= 10; a++;)
+	for (a = 1; a <= 10; a++)
 	{
-		j = 'a';
-		for (j <= 'z'; j++;)
+		for (j = 'a'; j <= 'z'; j++)
 		{
 			_putchar(j);
 		}
