@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_alphabelt - Function to print small letters
- * Description: prints alphabelt with putchar
+ * print_alphabet - Function to print small letters
+ * Description: prints alphabet with putchar
  * Return: 0
  */
 
