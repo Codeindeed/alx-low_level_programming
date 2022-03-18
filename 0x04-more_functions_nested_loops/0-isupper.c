@@ -1,8 +1,9 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- * _isupper- checks for uppercase
- * @c: is an integer
- * Return: 0
+ * _isupper - check uppercase character.
+ * @c: integer.
+ * Return: 0 succes.
  */
 int _isupper(int c)
 {
@@ -11,7 +12,5 @@ int _isupper(int c)
 		return (1);
 	}
 	else
-	{
 		return (0);
-	}
 }
