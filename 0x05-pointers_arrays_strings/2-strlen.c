@@ -2,8 +2,8 @@
 
 /**
  * _strlen - counts the number of strings
- * @*s: char 
- * Return: 0 
+ * @s: char
+ * Return: 0
  */
 int _strlen(char *s)
 {
