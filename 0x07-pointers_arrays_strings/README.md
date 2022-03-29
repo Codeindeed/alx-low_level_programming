@@ -1,1 +1,1 @@
-its all about C
+added read me for pointers project
